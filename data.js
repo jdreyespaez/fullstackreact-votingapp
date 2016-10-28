@@ -6,12 +6,12 @@ window.Data = (function () {
   const data = [
     {
       id: 1,
-      title: 'Yellow Pail',
-      description: 'On-demand sand castle construction expertise.',
-      url: '#',
+      title: '2016 | Oliver Hart y Bengt Holmström',
+      description: 'La Academia Sueca galardonó con el Nobel de Economía de forma conjunta a Hart y Holmström "por su contribución en la teoría de contratos".',
+      url: 'https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2016/',
       votes: generateVoteCount(),
       submitter_avatar_url: 'images/avatars/daniel.jpg',
-      product_image_url: 'images/products/image-aqua.png',
+      product_image_url: 'images/nobels/2016Hart&Holstrom.png',
     },
     {
       id: 2,
